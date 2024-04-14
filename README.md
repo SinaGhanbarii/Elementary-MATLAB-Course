@@ -1,10 +1,10 @@
 # MATLAB Elementary Course
 
 Welcome to the MATLAB Elementary Course repository! This repository contains course materials for an introductory level course on MATLAB, aimed at beginners with little to no prior experience in programming or MATLAB.
-
+This course will be held on April 2024 in collaboration with Kimia Scientific Group, Chemical and Petroleum Department, Sharif University of Technology.
 ## Course Overview
 
-This course is designed to introduce participants to the basics of MATLAB programming language and its applications in various fields. Through a series of lectures, hands-on exercises, and assignments, participants will gain a solid understanding of MATLAB fundamentals and develop essential programming skills.
+This course introduces participants to the basics of MATLAB programming language and its applications in various fields. Through lectures, hands-on exercises, and assignments, participants will gain a solid understanding of MATLAB fundamentals and develop essential programming skills.
 
 ## Course Contents
 
@@ -13,11 +13,13 @@ The course covers the following topics:
 1. Introduction to MATLAB
 2. Basic syntax and commands
 3. Variables, arrays, and matrices
-4. Control flow statements (loops and conditional statements)
-5. Functions and scripts
-6. Plotting and visualization
-7. File I/O operations
-8. Introduction to MATLAB toolboxes (optional)
+4. Introduction to tables and map containers
+5. Control flow statements (loops and conditional statements)
+6. Functions and scripts
+7. Solving System of Linear Equations
+8. Polynomials
+9. Plotting and visualization
+10. Getting Started with LiveScript
 
 ## Prerequisites
 
@@ -26,19 +28,12 @@ No prior programming experience is required to enroll in this course. However, p
 ## Repository Structure
 
 - `lectures/`: Contains lecture slides and notes in PDF format.
-- `exercises/`: Includes hands-on exercises and solutions.
-- `assignments/`: Contains assignment prompts and submission guidelines.
+- `codes/`: Includes the codes of each session.
+- `Excercices/`: Contains exercise prompts and submission guidelines.
 - `resources/`: Supplementary materials, reference guides, and useful links.
-- `LICENSE`: MIT License for the course materials.
-
-## Getting Started
-
-1. Clone this repository to your local machine using the following command:
-
-2. Navigate to the cloned directory:
 
 ## Contact
 
-For any inquiries or support, please contact sina_ghanbari@outlook.com or DM in telegram: @Sina_Quf
+For any inquiries or support, please contact sina_ghanbari@outlook.com or DM in telegram: @Sina_Quf.
 
 Happy learning!
