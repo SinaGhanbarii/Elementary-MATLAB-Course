@@ -1,0 +1,27 @@
+sum(A(1,:))
+
+ans =
+
+    12
+
+sum(A)
+
+ans =
+
+    16    14    13
+
+sum(V)/length(V)
+
+ans =
+
+   37.4000
+
+A
+
+A =
+
+     4     7     1
+     7     2     3
+     5     5     9
+
+diary off
