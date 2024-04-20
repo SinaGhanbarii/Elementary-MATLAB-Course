@@ -4,7 +4,7 @@ Score = input('Enter the grade value');
 switch Score 
     case Score>=90
         grade = 'A';
-    case Score>=80
+    case Score>=80 
         grade = 'B';
     case Score>=70
         grade = 'C';
