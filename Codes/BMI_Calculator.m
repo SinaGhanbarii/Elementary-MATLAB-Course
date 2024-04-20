@@ -1,4 +1,5 @@
 clear, clc
+
 Weight = input('Enter the weight in kg: ');
 Height = input('Enter the height in m: ');
 BMI = Weight/Height^2;

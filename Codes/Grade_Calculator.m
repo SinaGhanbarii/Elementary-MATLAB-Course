@@ -2,7 +2,7 @@ clear, clc
 Score = input('Enter the grade value');
 
 switch Score 
-    case Score>=90
+    case 90
         grade = 'A';
     case Score>=80 
         grade = 'B';
